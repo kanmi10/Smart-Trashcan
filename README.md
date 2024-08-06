@@ -1,10 +1,17 @@
 # 🗑️  스마트 쓰레기통
 
-## ✅ 프로젝트 소개
+##   프로젝트 소개
 
->교내 종합학술대회 참여로 진행했던 ***스마트 쓰레기통***입니다.
+>교내 종합학술대회 참여로 진행했던 ***스마트 쓰레기통*** 입니다.
+<p align = "center"> 
+ <img src = "https://github.com/user-attachments/assets/918ab83c-d296-433a-a985-c8243af8d823" width = "300">
+</p>
 
-![IMG_3290](https://github.com/user-attachments/assets/918ab83c-d296-433a-a985-c8243af8d823)
+### 🎞 프로젝트 진행 기간
+
+2022.11.17 ~ 2021.11.24 (7일간 진행)
+
+<br>
 
 
 ### 💡 제안 배경
@@ -24,7 +31,7 @@
 
 <br>
 
-## ✅ 사용 기술 
+## ⚙️ 사용 기술 
   
 |구분|기능|설명|
 |:---:|:---:|:---:|
@@ -33,7 +40,7 @@
 
 <br>
 
-## ✅ 아두이노 설계
+## ⚙️ 아두이노 설계
 <img width="734" alt="스마트쓰레기통 설계도" src="https://github.com/user-attachments/assets/3bc4f37e-9703-47d7-9085-0d0b43e289ed">
 <img width="734" alt="스마트쓰레기통 설계도" src="https://github.com/user-attachments/assets/8e60404b-537e-4b2a-8f0a-d768b3abf5d2">
 
@@ -43,7 +50,7 @@
   
 <br>
 
-## ✅ 기대효과 
+## 기대효과 
 
 - #### 작품의 기대효과 
   >- 외부 내부 잔량 표시로 교내 휴지통 관리 용이
